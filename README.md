@@ -1,2 +1,2 @@
 # hello-world
-The Grey Banner
+Grey Banner
